@@ -1,0 +1,8 @@
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+Procfile
+setup.sh
+venv
+movie_dict.pkl
+movie_list.pkl
+similarity.pkl
